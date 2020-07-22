@@ -1,56 +1,56 @@
-# Privacy Policy for Vuong Tuan Nam
+# Chính sách bảo mật cho Vương Tuấn Nam
 
-At HCTFP, accessible from https://github.com/o0oboao0o/HCTFP, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by HCTFP and how we use it.
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in HCTFP. This policy is not applicable to any information collected offline or via channels other than this website.
+Tại HCTFP, có thể truy cập từ https://github.com/o0oboao0o/HCTFP, một trong những ưu tiên chính của chúng tôi là quyền riêng tư của khách truy cập. Tài liệu Chính sách bảo mật này chứa các loại thông tin được thu thập và ghi lại bởi HCTFP và cách chúng tôi sử dụng thông tin đó.
+Nếu bạn có thêm câu hỏi hoặc yêu cầu thêm thông tin về Chính sách bảo mật của chúng tôi, đừng ngần ngại liên hệ với chúng tôi.
+Chính sách bảo mật này chỉ áp dụng cho các hoạt động trực tuyến của chúng tôi và có giá trị đối với khách truy cập vào trang web của chúng tôi liên quan đến thông tin mà họ đã chia sẻ và / hoặc thu thập trong HCTFP. Chính sách này không áp dụng cho bất kỳ thông tin nào được thu thập ngoại tuyến hoặc qua các kênh khác ngoài trang web này.
 
-# Consent
-By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+# Bằng lòng
+Bằng cách sử dụng trang web của chúng tôi, bạn đồng ý với Chính sách quyền riêng tư của chúng tôi và đồng ý với các điều khoản của nó.
 
-# Information we collect
-The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
-If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
-When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.
+# Thông tin chúng tôi thu thập
+Thông tin cá nhân mà bạn được yêu cầu cung cấp và lý do tại sao bạn được yêu cầu cung cấp thông tin đó sẽ được làm rõ cho bạn tại thời điểm chúng tôi yêu cầu bạn cung cấp thông tin cá nhân của bạn.
+Nếu bạn liên hệ trực tiếp với chúng tôi, chúng tôi có thể nhận được thông tin bổ sung về bạn như tên, địa chỉ email, số điện thoại, nội dung của tin nhắn và / hoặc tệp đính kèm bạn có thể gửi cho chúng tôi và bất kỳ thông tin nào khác bạn có thể chọn cung cấp.
+Khi bạn đăng ký Tài khoản, chúng tôi có thể yêu cầu thông tin liên hệ của bạn, bao gồm các mục như tên, tên công ty, địa chỉ, địa chỉ email và số điện thoại.
 
-# How we use your information
-We use the information we collect in various ways, including to:
-Provide, operate, and maintain our webste
-Improve, personalize, and expand our webste
-Understand and analyze how you use our webste
-Develop new products, services, features, and functionality
-Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the webste, and for marketing and promotional purposes
-Send you emails
-Find and prevent fraud
+# Cách chúng tôi sử dụng thông tin của bạn
+Chúng tôi sử dụng thông tin chúng tôi thu thập theo nhiều cách khác nhau, bao gồm:
+Cung cấp, vận hành và duy trì webste của chúng tôi
+Cải thiện, cá nhân hóa và mở rộng webste của chúng tôi
+Hiểu và phân tích cách bạn sử dụng webste của chúng tôi
+Phát triển sản phẩm, dịch vụ, tính năng và chức năng mới
+Giao tiếp với bạn, trực tiếp hoặc thông qua một trong các đối tác của chúng tôi, bao gồm cả dịch vụ khách hàng, để cung cấp cho bạn các cập nhật và thông tin khác liên quan đến webste và cho các mục đích tiếp thị và quảng cáo
+Gửi email cho bạn
+Tìm và ngăn chặn gian lận
 
-# Log Files
-HCTFP follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information. Our Privacy Policy was created with the help of the Privacy Policy Generator and the Online Privacy Policy Generator.
-Advertising Partners Privacy Policies
-You may consult this list to find the Privacy Policy for each of the advertising partners of HCTFP.
-Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on HCTFP, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
-Note that HCTFP has no access to or control over these cookies that are used by third-party advertisers.
+# Đăng nhập tập tin
+HCTFP tuân theo quy trình chuẩn sử dụng tệp nhật ký. Những tập tin này đăng nhập khách truy cập khi họ truy cập trang web. Tất cả các công ty lưu trữ làm điều này và một phần phân tích của dịch vụ lưu trữ. Thông tin được thu thập bởi các tệp nhật ký bao gồm địa chỉ giao thức internet (IP), loại trình duyệt, Nhà cung cấp dịch vụ Internet (ISP), dấu ngày và thời gian, trang giới thiệu / thoát và có thể số lần nhấp. Chúng không được liên kết với bất kỳ thông tin có thể nhận dạng cá nhân. Mục đích của thông tin là để phân tích xu hướng, quản trị trang web, theo dõi chuyển động của người dùng trên trang web và thu thập thông tin nhân khẩu học. Chính sách bảo mật của chúng tôi được tạo ra với sự trợ giúp của Trình tạo chính sách quyền riêng tư và Trình tạo chính sách bảo mật trực tuyến.
+Đối tác quảng cáo Chính sách bảo mật
+Bạn có thể tham khảo danh sách này để tìm Chính sách bảo mật cho từng đối tác quảng cáo của HCTFP.
+Máy chủ quảng cáo hoặc mạng quảng cáo của bên thứ ba sử dụng các công nghệ như cookie, JavaScript hoặc Web Beacons được sử dụng trong các quảng cáo và liên kết tương ứng xuất hiện trên HCTFP, được gửi trực tiếp đến trình duyệt của người dùng. Họ tự động nhận địa chỉ IP của bạn khi điều này xảy ra. Những công nghệ này được sử dụng để đo lường hiệu quả của các chiến dịch quảng cáo của họ và / hoặc để cá nhân hóa nội dung quảng cáo mà bạn thấy trên các trang web mà bạn truy cập.
+Lưu ý rằng HCTFP không có quyền truy cập hoặc kiểm soát các cookie này được sử dụng bởi các nhà quảng cáo bên thứ ba.
 
-# Third Party Privacy Policies
-HCTFP's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
-You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
+# Chính sách bảo mật của bên thứ ba
+Chính sách bảo mật của HCTFP không áp dụng cho các nhà quảng cáo hoặc trang web khác. Do đó, chúng tôi khuyên bạn nên tham khảo Chính sách bảo mật tương ứng của các máy chủ quảng cáo bên thứ ba này để biết thêm thông tin chi tiết. Nó có thể bao gồm các thực tiễn và hướng dẫn của họ về cách từ chối các tùy chọn nhất định.
+Bạn có thể chọn tắt cookie thông qua các tùy chọn trình duyệt cá nhân. Để biết thông tin chi tiết hơn về quản lý cookie với các trình duyệt web cụ thể, có thể tìm thấy nó tại các trang web tương ứng của trình duyệt.
 
-# CCPA Privacy Rights (Do Not Sell My Personal Information)
-Under the CCPA, among other rights, California consumers have the right to:
-Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
-Request that a business delete any personal data about the consumer that a business has collected.
-Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+# Quyền riêng tư CCPA (Không bán thông tin cá nhân của tôi)
+Theo CCPA, trong số các quyền khác, người tiêu dùng California có quyền:
+Yêu cầu doanh nghiệp thu thập dữ liệu cá nhân của người tiêu dùng tiết lộ các danh mục và mẩu dữ liệu cá nhân cụ thể mà doanh nghiệp đã thu thập về người tiêu dùng.
+Yêu cầu doanh nghiệp xóa bất kỳ dữ liệu cá nhân nào về người tiêu dùng mà doanh nghiệp đã thu thập.
+Yêu cầu doanh nghiệp bán dữ liệu cá nhân của người tiêu dùng, không bán dữ liệu cá nhân của người tiêu dùng.
+Nếu bạn đưa ra yêu cầu, chúng tôi có một tháng để trả lời bạn. Nếu bạn muốn thực hiện bất kỳ quyền nào trong số này, vui lòng liên hệ với chúng tôi.
 
-# GDPR Data Protection Rights
-We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
-The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.
-The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.
-The right to erasure – You have the right to request that we erase your personal data, under certain conditions.
-The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.
-The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.
-The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+# Quyền bảo vệ dữ liệu GDPR
+Chúng tôi muốn đảm bảo bạn biết đầy đủ tất cả các quyền bảo vệ dữ liệu của mình. Mọi người dùng đều được hưởng những điều sau đây:
+Quyền truy cập - Bạn có quyền yêu cầu các bản sao dữ liệu cá nhân của mình. Chúng tôi có thể tính một khoản phí nhỏ cho dịch vụ này.
+Quyền cải chính - Bạn có quyền yêu cầu chúng tôi sửa bất kỳ thông tin nào bạn cho là không chính xác. Bạn cũng có quyền yêu cầu chúng tôi hoàn thành thông tin mà bạn cho là không đầy đủ.
+Quyền xóa - Bạn có quyền yêu cầu chúng tôi xóa dữ liệu cá nhân của bạn, trong một số điều kiện nhất định.
+Quyền hạn chế xử lý - Bạn có quyền yêu cầu chúng tôi hạn chế xử lý dữ liệu cá nhân của bạn, trong một số điều kiện nhất định.
+Quyền phản đối xử lý - Bạn có quyền phản đối việc chúng tôi xử lý dữ liệu cá nhân của bạn, trong những điều kiện nhất định.
+Quyền chuyển đổi dữ liệu - Bạn có quyền yêu cầu chúng tôi chuyển dữ liệu mà chúng tôi đã thu thập sang một tổ chức khác hoặc trực tiếp cho bạn, trong một số điều kiện nhất định.
+Nếu bạn đưa ra yêu cầu, chúng tôi có một tháng để trả lời bạn. Nếu bạn muốn thực hiện bất kỳ quyền nào trong số này, vui lòng liên hệ với chúng tôi.
 
-# Children's Information
-Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+# Thông tin trẻ em
+Một phần ưu tiên khác của chúng tôi là bổ sung sự bảo vệ cho trẻ em khi sử dụng internet. Chúng tôi khuyến khích phụ huynh và người giám hộ quan sát, tham gia và / hoặc giám sát và hướng dẫn hoạt động trực tuyến của họ.
 
-HCTFP does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+HCTFP không cố ý thu thập bất kỳ Thông tin nhận dạng cá nhân nào từ trẻ em dưới 13 tuổi. Nếu bạn nghĩ rằng con bạn cung cấp loại thông tin này trên trang web của chúng tôi, chúng tôi khuyến khích bạn liên hệ với chúng tôi ngay lập tức và chúng tôi sẽ nỗ lực hết sức để loại bỏ kịp thời thông tin đó từ hồ sơ của chúng tôi.
